@@ -1,0 +1,5 @@
+../Src/010i2c_master_tx_testing.c:24:6:delay	16	static
+../Src/010i2c_master_tx_testing.c:38:6:I2C1_GPIOInits	24	static
+../Src/010i2c_master_tx_testing.c:69:6:I2C1_Inits	8	static
+../Src/010i2c_master_tx_testing.c:81:6:GPIO_ButtonInit	24	static
+../Src/010i2c_master_tx_testing.c:97:5:main	16	static
